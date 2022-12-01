@@ -38,7 +38,7 @@ public class POM_Login_Class {
 	
 	public void Password()
 	{
-		password.sendKeys("ravishweta");
+		password.sendKeys("shweta");
 	}
 	
 	public void submit()
